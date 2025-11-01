@@ -22,4 +22,9 @@ Network Topology
     <td><b>FortiGate Firewall</b></td>
     <td><code>FGT_VM64_KVM-v7.0.9.M-build0444-FORTINET.out.kvm.qcow2</code></td>
   </tr>
+  <tr>
+    <td><b>Windows Server2012R2</b></td>
+    <td><code>FGT_VM64_KVM-v7.0.9.M-build0444-FORTINET.out.kvm.qcow2</code></td>
+  </tr></code></td>
+  </tr>
 </table>
