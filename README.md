@@ -36,3 +36,14 @@ It demonstrates <b>enterprise-grade routing, switching, DHCP/DNS integration,</b
   </tr></code></td>
   </tr>
 </table>
+
+## 👤 Author
+*Renzo Bautista*  
+- 💼 Computer Engineer | CCNA Certified  
+- 🌐 [GitHub Portfolio](https://github.com/RnzoBautista)  
+- 🎥 [YouTube Channel](https://youtube.com/@rnzobautista2329)  
+- 📧 renzobautista107@gmail.com
+
+---
+🧰 *Project built and tested using GNS3 with Cisco IOSv, IOSvL2, and FortiGate VM images.*
+*
