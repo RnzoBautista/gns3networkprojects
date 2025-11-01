@@ -3,6 +3,13 @@
 Network Topology
 ![Network Topology](/Screenshot.png)
 
+<h2 align="center">🌐 Network Topology Overview</h2>
+
+<p align="center">
+This lab simulates a <b>multi-site enterprise network</b> with two primary locations — <b>Headquarters (HQ)</b> and <b>Branch 1</b> — securely connected through an <b>IPsec Site-to-Site VPN</b>.  
+It demonstrates <b>enterprise-grade routing, switching, DHCP/DNS integration,</b> and <b>FortiGate firewall policies</b> between distributed environments.
+</p>
+
 <h2 align="center">💾 Disk Images Used in This Lab</h2>
 
 <table align="center">
