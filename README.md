@@ -1,12 +1,13 @@
-# MY GNS3 NETWORK PROJECTS
+# NETWORK PROJECT #1
 
-Network Topology
+<h2 align="center">3 Tier | 2 site Network Topology</h2>
+
 ![Network Topology](/Screenshot.png)
 
-<h2 align="center">🌐 Network Topology Overview</h2>
+<h2 align="center">🌐 Network Overview</h2>
 
 <p align="center">
-This lab simulates a <b>multi-site enterprise network</b> with two primary locations — <b>Headquarters (HQ)</b> and <b>Branch 1</b> — securely connected through an <b>IPsec Site-to-Site VPN</b>.  
+This lab simulates a <b>multi-site enterprise network</b> with two primary locations — <b>Headquarter(HQ)</b> and <b>Branch 1</b>, securely connected through an <b>IPsec Site-to-Site VPN</b>.  
 It demonstrates <b>enterprise-grade routing, switching, DHCP/DNS integration,</b> and <b>FortiGate firewall policies</b> between distributed environments.
 </p>
 
